@@ -18,4 +18,4 @@ the dae file you put into this script gets overwritten
 you will need to export your model WITHOUT the lego logos
 
 # Dependencies
-This script uses numpy and elementtree
+This script uses numpy https://numpy.org/install/ and Python 3.9.7
