@@ -13,9 +13,9 @@ still very much WIP, a lot of code can go away and some things aren't fixed yet
 # Example
 py remover.py {dae file to edit}
 
-Disclaimers: 
-the dae file you put into this script gets overwritten
-you will need to export your model WITHOUT the lego logos
+# Disclaimers
+1. The dae file you put into this script gets overwritten by the corrected one
+2. You will need to export your model WITHOUT the lego logos, I might fix that in the future
 
 # Dependencies
 This script uses numpy https://numpy.org/install/ and Python 3.9.7
