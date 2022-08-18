@@ -10,7 +10,7 @@ still very much WIP, a lot of code can go away and some things aren't fixed yet
 1. Split up all linked submodels into non linked ones and then add the parent matrix to each child
 2. WIP
 
-#Example
+# Example
 py remover.py <dae file to edit>
 
 Disclaimer: the dae file you put into this script gets overwritten
