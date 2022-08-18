@@ -14,3 +14,6 @@ still very much WIP, a lot of code can go away and some things aren't fixed yet
 py remover.py {dae file to edit}
 
 Disclaimer: the dae file you put into this script gets overwritten
+
+# Dependencies
+This script uses numpy and elementtree
