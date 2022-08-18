@@ -11,6 +11,6 @@ still very much WIP, a lot of code can go away and some things aren't fixed yet
 2. WIP
 
 # Example
-py remover.py <dae file to edit>
+py remover.py {dae file to edit}
 
 Disclaimer: the dae file you put into this script gets overwritten
