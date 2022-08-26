@@ -1,4 +1,5 @@
 # StudioColladaExportFix
+NOT WORKING WITH MOST RECENT STUDIO UPDATE!!!
 A small script that fixes the collada export by Bricklinks Studio
 
 ## The Problem
